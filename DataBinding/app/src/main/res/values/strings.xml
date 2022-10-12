@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Angel Eduardo Curintzita Vazquez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="bio">Hola mi nombre Angel.
+    \n\nHola mundo!!!.
+    \n\nNací el 9 de febrero en la Cuidad de Morelia en el estado de Michoacán México.
+    \nViví casi toda la vida en Cuitzeo, ensudié en el Colegio Francisco de Villafuerte,
+    \ndonde curse el kinder, primaria y secundaria.
+    \n\nI\Actualmente estudio la carrera de Ing. de Sistemas Computacionales en el ITSUR.
+    \nNos vemos!!!!!. \n\n</string>
+</resources>

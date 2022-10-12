@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Brian Garcia Lopez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="bio">Hola mi nombre es Brian Garcia López
+    \n\nHola buenos dias.
+    \n\nY naci el dia 8 de noviembre del 2001 en el estado de michoacan.
+    \nToda mi vida he estado en santa ana maya michoacan,
+    \ndonde curse el preescolar, primaria, secundaria y colegio de bachilleres.
+    \n\nI\Actualmente estudio la carrera de Ing. de Sistemas Computacionales en el ITSUR.
+    \nHasta luego \n\n</string>
+</resources>
